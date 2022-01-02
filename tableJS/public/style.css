@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+th{
+    border-bottom: 2px solid gray;
+}
+tr{
+    border-bottom: 2px solid gray;
+}
+td{
+    padding-left: 10px;
+}
